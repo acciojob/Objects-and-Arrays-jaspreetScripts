@@ -5,9 +5,9 @@ const person = {
   age: 80,
 };
 
-const team  = players;
-const team1 ="John", "Bob", "Alice", "Poppy"];
-const cap1 ={
+let team  = players;
+let team1 ="John", "Bob", "Alice", "Poppy"];
+let cap1 ={
   name: "dhoni",
   age: 25,
 };
