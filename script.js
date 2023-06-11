@@ -1,4 +1,4 @@
-const players = ["John", "Bob", "Alice", "Poppy"];
+const players = ["John", "Bob", "Dhoni", "Dhoni"];
 
 const person = {
   name: "John Doe",
