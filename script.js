@@ -5,7 +5,7 @@ const person = {
   age: 80,
 };
 
-let team  = players[];
+let team  = players;
 let team1 =["John", "Bob", "Alice", "Poppy"];
 let cap1 ={
   name: "John Doe",
